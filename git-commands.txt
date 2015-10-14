@@ -1,0 +1,2 @@
+git init --> tranforms directory into a Git repository
+
